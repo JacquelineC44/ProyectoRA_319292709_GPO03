@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &305224759183110125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3309549019295057205}
+  - component: {fileID: 4182217646391858273}
+  m_Layer: 0
+  m_Name: 'interaction '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3309549019295057205
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 305224759183110125}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.32708, y: 0, z: -1.16707}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4182217646391858273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 305224759183110125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3e0fb15e1d3a584fa27549792f62af3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  camara: {fileID: 0}
+  textoNombreAnimal: {fileID: 0}
+  textoNombreCientifico: {fileID: 0}
+  imagenHabitatUI: {fileID: 0}
+  textoHabitatUI: {fileID: 0}
+  amenazaImagenUI1: {fileID: 0}
+  amenazaImagenUI2: {fileID: 0}
+  amenazaImagenUI3: {fileID: 0}
+  amenazaTextoUI1: {fileID: 0}
+  amenazaTextoUI2: {fileID: 0}
+  amenazaTextoUI3: {fileID: 0}
+  amenazaInfoAdicionalUI: {fileID: 0}
+  datosImagenUI: {fileID: 0}
+  datoInteresanteUI1: {fileID: 0}
+  datoInteresanteUI2: {fileID: 0}
+  datoInteresanteUI3: {fileID: 0}
+  panelInstruc: {fileID: 0}
